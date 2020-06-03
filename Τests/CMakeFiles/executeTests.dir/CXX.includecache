@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwerty/Documents/emiris2/emiris2/Point/Point.h
+
+/home/qwerty/Documents/emiris2/emiris2/Utils/DTW.h
+vector
+-
+cmath
+-
+iostream
+-
+Euclidean.h
+/home/qwerty/Documents/emiris2/emiris2/Utils/Euclidean.h
+Position.h
+/home/qwerty/Documents/emiris2/emiris2/Utils/Position.h
+
+/home/qwerty/Documents/emiris2/emiris2/Utils/Euclidean.h
+cmath
+-
+vector
+-
+../Point/Point.h
+/home/qwerty/Documents/emiris2/emiris2/Point/Point.h
+
+/home/qwerty/Documents/emiris2/emiris2/Utils/Position.h
+
+/home/qwerty/Documents/emiris2/emiris2/Τests/distance_test.cpp
+../Utils/DTW.h
+/home/qwerty/Documents/emiris2/emiris2/Utils/DTW.h
+../Utils/Euclidean.h
+/home/qwerty/Documents/emiris2/emiris2/Utils/Euclidean.h
+../Point/Point.h
+/home/qwerty/Documents/emiris2/emiris2/Point/Point.h
+../Utils/Position.h
+/home/qwerty/Documents/emiris2/emiris2/Utils/Position.h
+gtest/gtest.h
+-
+iostream
+-
+

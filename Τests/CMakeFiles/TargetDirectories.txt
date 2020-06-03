@@ -1,0 +1,3 @@
+/home/qwerty/Documents/emiris2/emiris2/Τests/CMakeFiles/rebuild_cache.dir
+/home/qwerty/Documents/emiris2/emiris2/Τests/CMakeFiles/executeTests.dir
+/home/qwerty/Documents/emiris2/emiris2/Τests/CMakeFiles/edit_cache.dir
